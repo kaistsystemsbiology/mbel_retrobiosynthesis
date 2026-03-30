@@ -1,4 +1,4 @@
-# Computationally guided platform for microbial synthesis of non-natural antinematode phenylpropanoid
+# Computationally guided platform for microbial synthesis of novel nematocidal phenylpropanoid
 
 ## Description
 

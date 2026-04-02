@@ -1,4 +1,4 @@
-# Computationally guided platform for microbial synthesis of novel nematocidal phenylpropanoid
+# A computational-biological platform for _de novo_ biosynthesis of a new-to-nature nematocide
 
 ## Description
 
